@@ -1,0 +1,6 @@
+# Bloqueia a listagem de diretórios.
+#Options All -Indexes
+Options -Indexes
+IndexIgnore *
+# Mensagem de erro personalizada.
+ErrorDocument 403 "Desculpe! acesso nao permitido!
