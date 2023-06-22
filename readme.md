@@ -13,7 +13,10 @@ O sistema de leitura de Nota Fiscal XML foi feito na stack:
 2. Executar script SQL localizado em:
 `/db/xmlreader.sql`
 
-3. Credenciais de acesso:
+3. Configurar dados de acesso ao banco de dados em:
+`/conn/conn.php`
+
+4. Credenciais de acesso:
 `login: admin | senha: 123`
 
 #### License
