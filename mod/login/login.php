@@ -8,7 +8,7 @@ include "../../inc/head.php";
 <style>
 html body
 {
-	background-image: url(../../imgs/pitneybowes_bg_new.jpeg) !important;
+	background-image: url(../../imgs/imagem_fundo_login.png) !important;
     background-size: cover !important;
     background-position:0em -13.1em !important;
 }
